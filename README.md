@@ -8,6 +8,7 @@
 
 ## General Info
 Data Visualizations done based on data from Lattice Training's paper (Climbing Critical Force Data, Giles et al 2020)
+The experiments done by Dr. David Giles et al. collected data from 129 subjects whom provided consent, health history, bouldering (high impact climbing from shorter distances) and sport climbing (lengthier climbing involving ropes) grades and subjected them to a series of "max hangs", maximum voluntary contractions on a 20mm rung, with their dominant hand to measure ff-CF (finger flexor Critical Force). 
 
 ## Set Up
 
