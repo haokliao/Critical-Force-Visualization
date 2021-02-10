@@ -17,6 +17,15 @@ The experiments done by Dr. David Giles et al. collected data from 129 subjects 
 
 
 ## To-do
+- [ ] Everything
+- [ ] Read through study, take good notes, get a better grasp on material
+- [ ] Clean files
+- [ ] Figure out charts (scatterplot?) to visualize with
+- [ ] Find out tools I want to use to achieve visualization
+- [ ] Figure out areas where there could be more data vis to convey information
+- [ ] Work on spaghetti code
+- [ ] Think about package managers, (conda,poetry,docker?) to use
+
 
 ## Credits 
 Special thanks to Dr. David Giles who allowed us to work with his data from his paper, [An all-out test to determine finger flexor critical force in rock climbers](https://www.researchgate.net/publication/343601001_An_all-out_test_to_determine_finger_flexor_critical_force_in_rock_climbers)
