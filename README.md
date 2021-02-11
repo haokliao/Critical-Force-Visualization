@@ -18,13 +18,14 @@ The experiments done by Dr. David Giles et al. collected data from 129 subjects 
 
 ## To-do
 - [ ] Everything
+- [x] Package manager (Conda)
 - [ ] Read through study, take good notes, get a better grasp on material
 - [ ] Clean files
 - [ ] Figure out charts (scatterplot?) to visualize with
 - [ ] Find out tools I want to use to achieve visualization
 - [ ] Figure out areas where there could be more data vis to convey information
 - [ ] Work on spaghetti code
-- [ ] Think about package managers, (conda,poetry,docker?) to use
+
 
 
 ## Credits 
