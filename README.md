@@ -11,7 +11,10 @@ Data Visualizations done based on data from Lattice Training's paper (Climbing C
 The experiments done by Dr. David Giles et al. collected data from 129 subjects whom provided consent, health history, bouldering (high impact climbing from shorter distances) and sport climbing (lengthier climbing involving ropes) grades and subjected them to a series of "max hangs", maximum voluntary contractions on a 20mm rung, with their dominant hand to measure ff-CF (finger flexor Critical Force). 
 
 ## Set Up
-
+This project was created with Conda as a package manager, so that the package and dependencies process could be as painless as possible for the audience(you!)
+The documentation for this process is located [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#create-env-from-file), but it's as simple as going into your terminal and recreating the environment from the CFVenv.yml file. 
+>conda env create -CFVenv.yml
+>conda activate CFVenv.yml
 
 ## Technologies
 
