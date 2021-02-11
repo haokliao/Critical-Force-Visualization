@@ -15,7 +15,7 @@ This project was created with Conda as a package manager, so that the package an
 The documentation for this process is located [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#create-env-from-file), but it's as simple as going into your terminal and recreating the environment from the **CFVenv.yml** file. 
 
 ```python
-conda env create -f -CFVenv.yml
+conda env create -f CFVenv.yml
 conda activate CFVenv.yml
 ```
 
