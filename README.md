@@ -1,9 +1,10 @@
 ## Table of Contents 
-* [General Info](#general-info)
-* [Set Up](#set-up)
-* [Technologies](#technologies)
-* [To-do](#to-do)
-* [Credits](#credits)
+- [Table of Contents](#table-of-contents)
+- [General Info](#general-info)
+- [Set Up](#set-up)
+- [Technologies](#technologies)
+- [To-do](#to-do)
+- [Credits](#credits)
 
 
 ## General Info
@@ -14,8 +15,8 @@ The experiments done by Dr. David Giles et al. collected data from 129 subjects 
 This project was created with Conda as a package manager, so that the package and dependencies process could be as painless as possible for the audience(you!)
 The documentation for this process is located [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#create-env-from-file), but it's as simple as going into your terminal and recreating the environment from the **CFVenv.yml** file. 
 
-```python
-conda env create -CFVenv.yml
+```
+conda env create CFVenv.yml
 conda activate CFVenv.yml
 ```
 
