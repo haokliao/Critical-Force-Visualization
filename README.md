@@ -26,14 +26,31 @@ conda activate CFVenv.yml
 ## To-do
 - [ ] Everything
 - [x] Package manager (Conda)
-- [ ] Read through study, take good notes, get a better grasp on material
-- [ ] Clean files
-- [ ] Figure out charts (scatterplot?) to visualize with
+- [x] Read through study, take good notes, get a better grasp on material
+
+
+- [ ] Dataset
+- [ ] Introduction Section : (Sex, Age, Years Climbing, Discipline, General vis)
+  - [ ] Clean all files
+  - [x] Create piechart for Gender
+  - [x] Create piechart for Age
+  - [x] Set inline
+  - [ ] Create chart for years climbing
+  - [ ] Create chart for disciplines
+    - [ ] If not nan value +1? 
+  - [ ] Figure out charts (scatterplot?) to visualize 
+  
+- [ ] Visualization
+  - [ ] Make things pretty! 
+  - [ ] Colorways
+  - [ ] Interesting charts to use
+  - [ ] Figure out areas where there could be more data vis to convey information
 - [ ] Find out tools I want to use to achieve visualization
-- [ ] Figure out areas where there could be more data vis to convey information
+
 - [ ] Work on spaghetti code
 
 
 
+
 ## Credits 
-Special thanks to Dr. David Giles who allowed us to work with his data from his paper, [An all-out test to determine finger flexor critical force in rock climbers](https://www.researchgate.net/publication/343601001_An_all-out_test_to_determine_finger_flexor_critical_force_in_rock_climbers)
+Special thanks to Dr. David Giles who allowed us to work with his data from his paper, [An all-out test to determine finger flexor critical force in rock climbers](https://www.researchgate.net/publication/343601001_An_all-out_test_to_determine_finger_flexor_critical_force_in_rock_climbers) 
