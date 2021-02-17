@@ -30,15 +30,14 @@ conda activate CFVenv.yml
 
 
 - [ ] Dataset
-- [ ] Introduction Section : (Sex, Age, Years Climbing, Discipline, General vis)
+- [x] Introduction Section : (Sex, Age, Years Climbing, Discipline, General vis)
   - [ ] Clean all files
   - [x] Create piechart for Gender
   - [x] Create piechart for Age
   - [x] Set inline
-  - [ ] Create chart for years climbing
-  - [ ] Create chart for disciplines
-    - [ ] If not nan value +1? 
-  - [ ] Figure out charts (scatterplot?) to visualize 
+  - [x] Create chart for years climbing
+  - [x] Create chart for disciplines
+
   
 - [ ] Visualization
   - [ ] Make things pretty! 
