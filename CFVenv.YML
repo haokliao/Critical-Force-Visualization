@@ -3,7 +3,7 @@ channels:
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
-  - argon2-cffi=20.1.0=py38h7b6447c_1
+  - argon2-cffi=20.1.0=py38h27cfd23_1
   - async_generator=1.10=pyhd3eb1b0_0
   - attrs=20.3.0=pyhd3eb1b0_0
   - backcall=0.2.0=pyhd3eb1b0_0
@@ -11,7 +11,7 @@ dependencies:
   - bleach=3.3.0=pyhd3eb1b0_0
   - ca-certificates=2021.1.19=h06a4308_0
   - certifi=2020.12.5=py38h06a4308_0
-  - cffi=1.14.4=py38h261ae71_0
+  - cffi=1.14.5=py38h261ae71_0
   - cycler=0.10.0=py38_0
   - dbus=1.13.18=hb2f20db_0
   - decorator=4.4.2=pyhd3eb1b0_0
@@ -20,7 +20,7 @@ dependencies:
   - expat=2.2.10=he6710b0_2
   - fontconfig=2.13.1=h6c09931_0
   - freetype=2.10.4=h5ab3b9f_0
-  - glib=2.66.1=h92f7085_0
+  - glib=2.67.4=h36276a3_1
   - gst-plugins-base=1.14.0=h8213a91_2
   - gstreamer=1.14.0=h28cd5cc_2
   - icu=58.2=he6710b0_3
@@ -57,8 +57,8 @@ dependencies:
   - libxml2=2.9.10=hb55368b_3
   - lz4-c=1.9.3=h2531618_0
   - markupsafe=1.1.1=py38h7b6447c_0
-  - matplotlib=3.3.2=h06a4308_0
-  - matplotlib-base=3.3.2=py38h817c723_0
+  - matplotlib=3.3.4=py38h06a4308_0
+  - matplotlib-base=3.3.4=py38h62a2d02_0
   - mistune=0.8.4=py38h7b6447c_1000
   - mkl=2020.2=256
   - mkl-service=2.3.0=py38he904b0f_0
