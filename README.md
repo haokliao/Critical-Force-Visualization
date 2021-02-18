@@ -16,15 +16,15 @@ This project was created with Conda as a package manager, so that the package an
 The documentation for this process is located [here](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#create-env-from-file), but it's as simple as going into your terminal and recreating the environment from the **CFVenv.yml** file. 
 
 
-Create your environment from CFVenv.yml file, then activate the environment created
+Create your environment from CFVenvs.yml file, then activate the environment created
 ```
-    conda env create -f CFVenvs.yml
-    conda activate CFVenvs
+    conda env create -f CFVenv.yml
+    conda activate CFVenv
 ```
 
 
 ## Technologies
-
+to do
 
 ## To-do
 - [ ] Everything
@@ -36,11 +36,11 @@ Create your environment from CFVenv.yml file, then activate the environment crea
 - [x] Introduction Section : (Sex, Age, Years Climbing, Discipline, General vis)
   - [ ] Clean all files
   - [x] Create piechart for Gender
-  - [x] Create piechart for Age
+  - [x] Create barchart for Age
   - [x] Set inline
   - [x] Create chart for years climbing
   - [x] Create chart for disciplines
-
+- [] Intermediate DA section : (Peak force vs grade, grade vs training time)
   
 - [ ] Visualization
   - [ ] Make things pretty! 
