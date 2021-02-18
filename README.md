@@ -18,8 +18,8 @@ The documentation for this process is located [here](https://docs.conda.io/proje
 
 Create your environment from CFVenv.yml file, then activate the environment created
 ```
-    conda env create -f CFVenv.yml
-    conda activate CFVenv
+    conda env create -f CFVenvs.yml
+    conda activate CFVenvs
 ```
 
 
