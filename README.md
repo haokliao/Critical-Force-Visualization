@@ -22,7 +22,7 @@ Create your environment from CFVenv.yml file
 
 Activate the environment created
 
-    conda activate CFVenv.yml
+    conda activate CFVenv
 
 ```
 
