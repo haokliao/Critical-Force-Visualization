@@ -35,7 +35,7 @@ Create your environment from the `CFVenv.yml` file, then activate the environmen
   - [x] Set inline
   - [x] Create chart for years climbing
   - [x] Create chart for disciplines
-- [] Intermediate DA section : (Peak force vs grade, grade vs training time)
+  - [ ] Intermediate DA section : (Peak force vs grade, grade vs training time)
   
 - [ ] Visualization
   - [ ] Make things pretty! 
