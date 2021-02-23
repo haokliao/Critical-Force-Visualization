@@ -2,7 +2,6 @@
 - [Table of Contents](#table-of-contents)
 - [General Info](#general-info)
 - [Set Up](#set-up)
-- [Technologies](#technologies)
 - [To-do](#to-do)
 - [Credits](#credits)
 
@@ -21,10 +20,6 @@ Create your environment from the `CFVenv.yml` file, then activate the environmen
     conda env create -f CFVenv.yml
     conda activate CFVenv
 ```
-
-
-## Technologies
-to do
 
 ## To-do
 - [ ] Everything
