@@ -1,3 +1,5 @@
+#Work in Progress
+
 ## Table of Contents 
 - [Table of Contents](#table-of-contents)
 - [General Info](#general-info)
@@ -6,12 +8,13 @@
 - [Credits](#credits)
 
 
-## General Info
+## General Info 
 Data Visualizations done based on data from Lattice Training's paper [An all-out test to determine finger flexor critical force in rock climbers](https://www.researchgate.net/publication/343601001_An_all-out_test_to_determine_finger_flexor_critical_force_in_rock_climbers) 
 The experiments done by Dr. David Giles et al. collected data from 121 subjects whom provided consent, health history, bouldering (high impact climbing from shorter distances) and sport climbing (lengthier climbing involving ropes) grades and subjected them to a series of "max hangs", maximum voluntary contractions on a 20mm rung, with their dominant hand to measure ff-CF (finger flexor Critical Force). 
 
 **EDA_001_notebook** contains introductory data analysis, visualizing basic demographics for the research group through different charts and graphs.
 
+(To do)
 **EDA_002_notebook will go** further in depth with the data, trying to answer some questions which I (and many others probably) are very curious about regarding the group, such as critical force in relationship to grade, how much work capacity (W') affects peak force and etc. 
 
 
@@ -28,6 +31,7 @@ Create your environment from the `CFVenv.yml` file, then activate the environmen
 
 ## To-do
 - [ ] Everything
+- [ ] EDA Notebook 2
 - [x] Package manager (Conda)
 - [x] Read through study, take good notes, get a better grasp on material
 
