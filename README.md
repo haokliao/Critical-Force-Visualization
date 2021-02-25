@@ -8,7 +8,12 @@
 
 ## General Info
 Data Visualizations done based on data from Lattice Training's paper (Climbing Critical Force Data, Giles et al 2020)
-The experiments done by Dr. David Giles et al. collected data from 129 subjects whom provided consent, health history, bouldering (high impact climbing from shorter distances) and sport climbing (lengthier climbing involving ropes) grades and subjected them to a series of "max hangs", maximum voluntary contractions on a 20mm rung, with their dominant hand to measure ff-CF (finger flexor Critical Force). 
+The experiments done by Dr. David Giles et al. collected data from 121 subjects whom provided consent, health history, bouldering (high impact climbing from shorter distances) and sport climbing (lengthier climbing involving ropes) grades and subjected them to a series of "max hangs", maximum voluntary contractions on a 20mm rung, with their dominant hand to measure ff-CF (finger flexor Critical Force). 
+
+**EDA_001_notebook** contains introductory data analysis, visualizing basic demographics for the research group through different charts and graphs.
+
+**EDA_002_notebook** goes further in depth with the data, trying to answer some questions which I (and many others probably) are very curious about regarding the group, such as critical force in relationship to grade, how much work capacity (W') affects peak force and etc. 
+
 
 ## Set Up
 This project was created with Conda as a package manager, so that the package and dependencies process could be as painless as possible for the audience(you!)
