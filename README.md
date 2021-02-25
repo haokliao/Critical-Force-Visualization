@@ -1,4 +1,4 @@
-**Work in Progress**
+<p style="text-align: center;"> **Work in Progress** </p>
 
 ## Table of Contents 
 - [Table of Contents](#table-of-contents)
