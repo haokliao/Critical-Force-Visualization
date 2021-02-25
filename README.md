@@ -1,4 +1,4 @@
-# Work in Progress
+**Work in Progress**
 
 ## Table of Contents 
 - [Table of Contents](#table-of-contents)
