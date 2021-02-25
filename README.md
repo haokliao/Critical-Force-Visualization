@@ -1,4 +1,4 @@
-<p style="text-align: center;"> **Work in Progress** </p>
+<p align="center"> **Work in Progress** </p>
 
 ## Table of Contents 
 - [Table of Contents](#table-of-contents)
@@ -49,10 +49,9 @@ Create your environment from the `CFVenv.yml` file, then activate the environmen
   - [ ] Make things pretty! 
   - [ ] Colorways
   - [ ] Interesting charts to use
-  - [ ] Figure out areas where there could be more data vis to convey information
-- [ ] Find out tools I want to use to achieve visualization
-
-- [ ] Work on spaghetti code
+  - [x] Figure out areas where there could be more data vis to convey information
+  - [x] Find out tools I want to use to achieve visualization
+  - [x] Work on spaghetti code
 
 
 
