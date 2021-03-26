@@ -32,9 +32,9 @@ Create your environment from the `CFVenv.yml` file, then activate the environmen
 - [x] Read through study, take good notes, get a better grasp on material
 
 
-- [ ] Dataset
+- [x] Dataset; Created module to clean dataset and drop all NA values.
 - [x] Introduction Section : (Sex, Age, Years Climbing, Discipline, General vis)
-  - [ ] Clean all files
+  - [x] Clean all files
   - [x] Create piechart for Gender
   - [x] Create barchart for Age
   - [x] Set inline
@@ -46,10 +46,10 @@ Create your environment from the `CFVenv.yml` file, then activate the environmen
   - [ ] Make things pretty! 
   - [ ] Colorways
   - [ ] Interesting charts to use
-  - [ ] Figure out areas where there could be more data vis to convey information
-- [ ] Find out tools I want to use to achieve visualization
+  - [x] Figure out areas where there could be more data vis to convey information
+- [x] Find out tools I want to use to achieve visualization
 
-- [ ] Work on spaghetti code
+- [x] Work on spaghetti code
 
 
 
