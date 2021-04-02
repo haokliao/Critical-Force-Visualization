@@ -31,7 +31,6 @@ Create your environment from the `CFVenv.yml` file, then activate the environmen
 - [x] Package manager (Conda)
 - [x] Read through study, take good notes, get a better grasp on material
 
-
 - [x] Dataset; Created module to clean dataset and drop all NA values.
 - [x] Introduction Section : (Sex, Age, Years Climbing, Discipline, General vis)
   - [x] Clean all files
