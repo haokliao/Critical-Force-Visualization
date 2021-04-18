@@ -34,6 +34,8 @@ Create your environment from the `CFVenv.yml` file, then activate the environmen
 - [x] Package manager (Conda)
 - [x] Read through study, take good notes, get a better grasp on material
 
+- [x] Dataset; Created module to clean dataset and drop all NA values.
+
 - [x] Introduction Section : (Sex, Age, Years Climbing, Discipline, General vis)
   - [x] Clean all files
   - [x] Create piechart for Gender
@@ -50,6 +52,11 @@ Create your environment from the `CFVenv.yml` file, then activate the environmen
   - [ ] Colorways
   - [ ] Interesting charts to use
   - [x] Figure out areas where there could be more data vis to convey information
+
+- [x] Find out tools I want to use to achieve visualization
+
+- [x] Work on spaghetti code
+=======
   - [x] Find out tools I want to use to achieve visualization
   - [x] Work on spaghetti code
 
