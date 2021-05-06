@@ -44,13 +44,13 @@ Create your environment from the `CFVenv.yml` file, then activate the environmen
   - [x] Create chart for years climbing
   - [x] Create chart for disciplines
 
-- [ ] EDA Notebook 2
-  - [ ] Intermediate DA section : (Peak force vs grade, grade vs training time)
+- [x] EDA Notebook 2
+  - [x] Intermediate DA section : (Peak force vs grade, grade vs training time)
   
-- [ ] Visualization
+- [x] Visualization
   - [ ] Make things pretty! 
   - [ ] Colorways
-  - [ ] Interesting charts to use
+  - [x] Interesting charts to use
   - [x] Figure out areas where there could be more data vis to convey information
 
 - [x] Find out tools I want to use to achieve visualization
