@@ -1,4 +1,6 @@
-<p align="center"> **Work in Progress** </p>
+##### Data Visualization done with Pandas, Seaborn, Matplotlib using Conda as a package manager
+
+<br>
 
 ## Table of Contents 
 - [Table of Contents](#table-of-contents)
@@ -30,7 +32,6 @@ Create your environment from the `CFVenv.yml` file, then activate the environmen
 ```
 
 ## To-do
-- [ ] Everything
 - [x] Package manager (Conda)
 - [x] Read through study, take good notes, get a better grasp on material
 
@@ -48,8 +49,8 @@ Create your environment from the `CFVenv.yml` file, then activate the environmen
   - [x] Intermediate DA section : (Peak force vs grade, grade vs training time)
   
 - [x] Visualization
-  - [ ] Make things pretty! 
-  - [ ] Colorways
+  - [x] Make things pretty! 
+  - [x] Colorways
   - [x] Interesting charts to use
   - [x] Figure out areas where there could be more data vis to convey information
 
@@ -64,4 +65,6 @@ Create your environment from the `CFVenv.yml` file, then activate the environmen
 
 
 ## Credits 
+Big shout out to @erinaldi for really helping me through this, double checking my PRS and helping me iron out issues and really involve myself into this project through industry standard processes.
+
 Special thanks to Dr. David Giles who allowed us to work with his data from his paper, [An all-out test to determine finger flexor critical force in rock climbers](https://www.researchgate.net/publication/343601001_An_all-out_test_to_determine_finger_flexor_critical_force_in_rock_climbers) 
